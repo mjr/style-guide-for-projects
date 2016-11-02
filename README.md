@@ -1,4 +1,4 @@
-# Sistem SOL
+# Sistema SOL
 
 Sistema de Gerenciamento Interno.
 
