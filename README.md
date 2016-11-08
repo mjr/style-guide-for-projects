@@ -15,7 +15,7 @@ Sistema de Gerenciamento Interno.
 $ mysql -u root -p
 mysql> CREATE DATABASE IF NOT EXISTS mydatabase;
 mysql> exit
-$ git clone --recursive https://github.com/onedreams/sistema-todo.git
+$ git clone --recursive https://github.com/eduhub/sistema-todo.git
 $ cd sistema-todo
 $ git branch master origin/master
 $ git flow init -d
