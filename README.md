@@ -1,4 +1,4 @@
-# Sistema SOL
+# Sistema TODO
 
 Sistema de Gerenciamento Interno.
 
@@ -13,10 +13,10 @@ Sistema de Gerenciamento Interno.
 
 ```console
 $ mysql -u root -p
-mysql> CREATE DATABASE IF NOT EXISTS sisconstructiondb;
+mysql> CREATE DATABASE IF NOT EXISTS mydatabase;
 mysql> exit
-$ git clone --recursive https://github.com/onedreams/sistema-sol.git
-$ cd sistema-sol
+$ git clone --recursive https://github.com/onedreams/sistema-todo.git
+$ cd sistema-todo
 $ git branch master origin/master
 $ git flow init -d
 $ git flow feature start <sua feature>
